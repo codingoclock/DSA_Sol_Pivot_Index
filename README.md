@@ -1,4 +1,4 @@
-# Make your DSA life simpler with GitHubt Solutions
+# Make your DSA life simpler with GitHub Solutions
 # DSA_Sol_Pivot_Index
 This is the complete guide to solve the Pivot Index Question of an Array on LeetCode.
 # Approach
